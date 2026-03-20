@@ -10,9 +10,6 @@ Application de bureau (Desktop) conçue dans le cadre d'un projet universitaire 
 
 Ce projet se distingue par le respect strict d'une **architecture logicielle robuste en 3 tiers** (Présentation, Logique métier, Données), garantissant un code maintenable, évolutif et sécurisé.
 
-📄 **[Cliquez ici pour consulter le rapport technique complet du projet (Analyse, diagrammes UML, Modèle relationnel)](file:///C:/Users/InfoPro/Documents/Rapport_Projet_GL.pdf)**
-
-
 ## 🛠️ Technologies utilisées
 
 - **Langage & Interface :** Java / Java Swing (Interface Graphique intuitive et ergonomique).
